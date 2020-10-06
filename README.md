@@ -9,7 +9,6 @@ framework and a bunch of development and testing tools for instant web developme
 
 The seed app doesn't do much, just shows how to wire two controllers and views together.
 
-
 ## Getting Started
 
 To get you started you can simply clone the angular-seed repository and install the dependencies:
@@ -65,7 +64,6 @@ npm start
 ```
 
 Now browse to the app at `http://localhost:8000/app/index.html`.
-
 
 
 ## Directory Layout
